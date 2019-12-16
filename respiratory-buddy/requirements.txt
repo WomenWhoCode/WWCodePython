@@ -133,7 +133,7 @@ sockjs-tornado==1.0.3
 Sphinx==1.5.1
 SQLAlchemy==1.1.5
 sympy==1.0
-tensorflow==1.0.0
+tensorflow==1.15.0
 termcolor==1.1.0
 terminado==0.6
 toolz==0.8.2
