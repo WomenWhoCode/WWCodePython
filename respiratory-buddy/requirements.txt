@@ -79,7 +79,7 @@ nbformat==4.2.0
 networkx==1.11
 nltk==3.2.4
 nose==1.3.7
-notebook==5.4.1
+notebook==6.1.5
 numpy==1.12.1
 numpydoc==0.6.0
 odo==0.5.0
