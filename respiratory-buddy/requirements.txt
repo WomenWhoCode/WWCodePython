@@ -68,7 +68,7 @@ jupyter-core==4.2.1
 Keras==2.0.4
 lazy-object-proxy==1.2.2
 locket==0.2.0
-lxml==3.7.2
+lxml==4.6.2
 MarkupSafe==0.23
 marshmallow==2.13.5
 mistune==0.7.3
