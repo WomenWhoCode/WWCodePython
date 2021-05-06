@@ -42,7 +42,7 @@ docutils==0.13.1
 et-xmlfile==1.0.1
 fastcache==1.0.2
 Flask==0.12
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 floyd-cli==0.9.5
 gevent==1.2.1
 greenlet==0.4.11
