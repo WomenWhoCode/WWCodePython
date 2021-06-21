@@ -71,7 +71,7 @@ locket==0.2.0
 lxml==3.7.2
 MarkupSafe==0.23
 marshmallow==2.13.5
-mistune==0.7.3
+mistune==0.8.1
 mpmath==0.19
 multipledispatch==0.4.9
 nbconvert==4.2.0
