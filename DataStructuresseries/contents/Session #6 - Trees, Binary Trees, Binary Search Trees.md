@@ -14,4 +14,4 @@ Add the content of your presentation. It can be of the following format:
         3. Insertion
         4. Traversal
 2. Link to the slides"[https://github.com/notmaineyy/WWCodePython/blob/master/DataStructuresseries/slides/Trees%2C%20Binary%20Trees%2C%20Binary%20Search%20Trees%20%5BMay%2027%202021%5D.pdf]"
-3. Link to the notebooks["notebook folder link"]
+3. [Link to the notebooks] (https://github.com/angiesk/WWCodePython/blob/master/DataStructuresseries/notebooks/Session%20%236%20Binary%20Trees%20Data%20Structures%20Series%20%5B27th%20May%202021%5D.ipynb)
