@@ -34,3 +34,6 @@
 [submodule "edaworkshop"]
 	path = edaworkshop
 	url = https://github.com/SteeleAlloy/edaworkshop.git
+[submodule "coding_for_the_movie_industry"]
+	path = coding_for_the_movie_industry
+	url = https://github.com/jessicakoubi/talk_coding_for_the_movie_industry
