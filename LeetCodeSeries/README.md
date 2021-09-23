@@ -3,14 +3,13 @@
 <h3 align="center" margin-top="0">by <font color='#007a7c'>WomenWhoCode Python</font></h3>
 </p>
 
-presented by: Chethana, Karen, Janani, Soumya
-
+presented by: Chethana and Karen
 
 ---------------------
 
 __<font size=4>Table of Content</font>__  
 
-[Session 1 (Sep 23): Two Pointers](link)
+Session 1 (Sep 23): [Two Pointers](slides/S1_TwoPointers.pdf)
 
 Session 2 (Oct 7): Sliding Window  
 
