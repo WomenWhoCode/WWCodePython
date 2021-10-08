@@ -34,15 +34,37 @@ To add new resources for events follow the [CONTRIBUTING guidelines](Contributin
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
-  <tr>
-  <td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/talk_coding_for_the_movie_industry"><img alt="May the Pipeline be with you: Coding for the Movie Industry" align="left" src="images/coding_for_the_movie_industry.png"/>&nbsp;</td>
-  <td colspan="3"><b>May the Pipeline be with you: Coding for the Movie Industry</b> 
-    <br><br>
-This talk will introduce you to the role of a Pipeline Technical Director in the VFX/Animation industry. We will go over who works as Pipeline TD, which kind of software development is done in the movie industry and finally, we will look at some of the tools developed for Avengers: Infinity War.   
-    <br><br> 
-  <em>- By Jessica Koubi and Bushra Alma </em></td>
-  </tr>
+<!-- Leetcode -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/wwc_leetcode"><img alt="Leetcode" align="left" src="LeetCodeSeries/leetcode.png"/>&nbsp;</td>
+<td colspan="3"><b>Leetcode Study Group</b> 
+  <br><br>
+In this study group we will be walking through a medium level Leetcode problem from understanding the problem to solving it. We will be dicussing 1 pattern on each session.
+  <br><br> 
+<em>- By Chethana Gopinath and Karen Wong </em></td>
+</tr>
 
+<!-- Library 101 -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/Python%20Libraries%20Series"><img alt="Library 101" align="left" src="Python%20Libraries%20Series/images/header.png"/>&nbsp;</td>
+<td colspan="3"><b>Libraries 101 Study Group</b> 
+  <br><br>
+This study group will take you on this journey through the exciting world of Python libraries to help you code faster, better and smarter *sparkles**sparkles*!
+  <br><br> 
+<em>- By Soumya Vemuri, Shermaine Ang and Karen Wong </em></td>
+</tr>
+
+<!-- Coding for Movie Industry -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/talk_coding_for_the_movie_industry"><img alt="May the Pipeline be with you: Coding for the Movie Industry" align="left" src="images/coding_for_the_movie_industry.png"/>&nbsp;</td>
+<td colspan="3"><b>May the Pipeline be with you: Coding for the Movie Industry</b> 
+  <br><br>
+This talk will introduce you to the role of a Pipeline Technical Director in the VFX/Animation industry. We will go over who works as Pipeline TD, which kind of software development is done in the movie industry and finally, we will look at some of the tools developed for Avengers: Infinity War.   
+  <br><br> 
+<em>- By Jessica Koubi and Bushra Alma </em></td>
+</tr>
+
+<!-- Trivia Tuesday -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/wwc_python_trivia_tuesday"><img alt="Tivia Tuesday" align="left" src="images/tt.PNG"/>&nbsp;</td>
 <td colspan="3"><b>Trivia Tuesday</b> 

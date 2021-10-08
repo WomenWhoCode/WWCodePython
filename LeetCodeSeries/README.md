@@ -7,18 +7,4 @@ presented by: Chethana and Karen
 
 ---------------------
 
-__<font size=4>Table of Content</font>__  
-
-Session 1 (Sep 23): [Two Pointers](slides/S1_TwoPointers.pdf)
-
-Session 2 (Oct 7): Sliding Window  
-
-Session 3 (Oct 23): - Hashmap, Hashset  
-
-Session 4 (Nov 4): Binary Search  
-
-Session 5 (Nov 18): DFS and BFS  
-
-Session 6 (Dec 2): Backtracking
-
-Session 7 (Dec 16):Greedy  
+Please visit [this repo](http://www.github.com/nuageklow/wwc_leetcode) for all materials
