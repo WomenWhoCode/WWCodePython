@@ -1,9 +1,9 @@
 # Tkinter Cheatsheet
 
 ## Importing Tkinter
-```
-import tkinter as Tk
-```
+`import tkinter as Tk`
+
+<br>
 
 ## Methods
   

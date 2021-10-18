@@ -1,9 +1,9 @@
 # Numpy Cheatsheet
 
 ## Installing Numpy
-``` 
-pip install numpy
-```
+`pip install numpy`
+
+<br>
 
 ## Numpy Arrays
 * Creating arrays
