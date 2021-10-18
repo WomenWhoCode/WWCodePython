@@ -20,7 +20,7 @@
       image = cv2.imread(path)
       cv2_imshow(image)
       ```
-      If the image is large, use the OpenCV image resize command. [Sample Code](https://github.com/cosmeow/WWCodePython)
+      If the image is large, use the OpenCV image resize command. [Sample Code](https://github.com/cosmeow/WWCodePython/blob/master/notebooks/Read_an_image_with_OpenCV.ipynb)
 
   2. Image Resizing
   3. Blurring an Image
