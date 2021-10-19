@@ -34,6 +34,16 @@ To add new resources for events follow the [CONTRIBUTING guidelines](Contributin
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repos content.  Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<!-- OneLineCoding -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/wwc_onelinecoding"><img alt="OneLineCoding" align="left" src="/OneLineCoding/onelinecoding.png"/>&nbsp;</td>
+<td colspan="3"><b>Less Is More: How to Code Python in One Line</b> 
+  <br><br>
+These Python one-liners will save you a bunch of time on your next project, so make sure to come along with us on this journey to uncover the true potential of the Python language and learn how to✨ do a lot with a little✨.
+  <br><br> 
+<em>- By Poojita Garg and Karen Wong </em></td>
+</tr>
+  
 <!-- Leetcode -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/wwc_leetcode"><img alt="Leetcode" align="left" src="LeetCodeSeries/leetcode.png"/>&nbsp;</td>
