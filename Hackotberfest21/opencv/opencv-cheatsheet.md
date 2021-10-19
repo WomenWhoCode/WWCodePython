@@ -16,7 +16,7 @@
   - path: Location of image to be read as a string.
   - flag(optional): flag value, that defines the format image to be read. Default value is 1(CV2.IMREAD_COLOR).It value varies from 0, 1, -1.
   
-  [Sample Code](https://github.com/JeevaSaravanan/OpenCv-GitCheatSheet/blob/main/OpenCV-ReadImage.ipynb)
+  [Sample Code](notebooks/OpenCV-ReadImage.ipynb)
   
   ### 2. Image Resizing
       cv2.resize(image,(width,height),fx,fy,interpolation)
@@ -27,7 +27,7 @@
   - fy(optional) : scaling along vertical axis.
   - interpolation(optional) : flag value that defines the any following method -INTER_NEAREST, INTER_LINEAR, INTER_AREA, INTER_CUBIC.
   
-  [Sample Code](https://github.com/JeevaSaravanan/OpenCv-GitCheatSheet/blob/main/OpenCV%20-%20Resize%20Image.ipynb)
+  [Sample Code](notebooks/OpenCV%20-%20Resize%20Image.ipynb)
       
   ### 3. Blurring an Image
   **Gaussian Blur:**
@@ -57,7 +57,7 @@
   - sigmaSpace: filter sigma in the coordinate space.
   - borderType: specifies image boundaries 
   
-  [Sample Code](https://github.com/JeevaSaravanan/OpenCv-GitCheatSheet/blob/main/OpenCV%20-%20Blur%20Image.ipynb)
+  [Sample Code](notebooks/OpenCV%20-%20Blur%20Image.ipynb)
   
   ### 4. Grayscaling of images
       cv2.cvtColor(image,colorcode)
@@ -66,11 +66,28 @@
   - colorcode: color space conversion code.
   for grayscale colorcode is *cv2.COLOR_BGR2GRAY*
   
-[Sample Code](https://github.com/JeevaSaravanan/OpenCv-GitCheatSheet/blob/main/OpenCV%20-%20Grayscale%20Image.ipynb)
+[Sample Code](notebooks/OpenCV%20-%20Grayscale%20Image.ipynb)
 
 ## Working with Images
 
-  1. Play videos with OpenCv
-  2. Extract frames from a video
+### 1. Play videos with OpenCv:
+*Find a video to use* 
+- If using Google Colab upload a video to your google drive to use. Add the following code to let google colab access your google drive:
+
+        from google.colab import drive
+
+- Find your video url and add into the wget code inside the double quotes: 
+
+        !wget = "put your video url here"
+
+- Also put your ending part of the video url in the cap code inside the parentheses and quote: 
+
+        cap = cv2.VideoCapture('number part.mp4')
+
+- It will play the video frame by frame. Warning it will be very slow on Google Colab.
+[Sample code](notebooks/Play_A_Video_with_OpenCV.ipynb)
+
+### 2. Extract frames from a video
+
 
 
