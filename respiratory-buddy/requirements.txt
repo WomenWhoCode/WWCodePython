@@ -4,7 +4,7 @@ appdirs==1.4.3
 appnope==0.1.0
 args==0.1.0
 astroid==1.4.9
-Babel==2.3.4
+Babel==2.9.1
 backports.shutil-get-terminal-size==1.0.0
 backports.tempfile==1.0rc1
 backports.weakref==1.0rc1
