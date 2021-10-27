@@ -14,6 +14,7 @@ Feel free to add more !
 3. [Pandas](pandas)
 4. [Python Basics](python-basics)
 5. [Tkinter](tkinter)
+6. [Matplotlib](matplotlib)
 
 <br>
 
