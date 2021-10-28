@@ -32,7 +32,7 @@
 ## Declaration of Functions in Python
 
 * Python Functions
-* Lambda Functions (Anonymous Functions)
+* [Lambda Functions (Anonymous Functions)](https://colab.research.google.com/drive/1i4FBNHwoijOhyFK1tTlc1svTFLA7edDp?usp=sharing)
 
 ## File Handling
 *
