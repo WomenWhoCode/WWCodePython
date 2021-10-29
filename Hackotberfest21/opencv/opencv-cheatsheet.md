@@ -68,6 +68,16 @@
   
 [Sample Code](notebooks/OpenCV%20-%20Grayscale%20Image.ipynb)
 
+### 5. Canny Edge Detection 
+    cv2.Canny(image, edges, threshold1, threshold2, apertureSize, L2gradient)
+ **Parameter:**
+- image - The 8-bit input image
+- edges - The 8-bit image after the edges have been detected
+- threshold1 & threshold2 - The minimum and maximum threshold. The edges with intensity gradients above and below these values are discarded.
+- apertureSize - This is used in the Sobel filter to find the intensity gradient of the input image
+- L2gradient - This specifies the equation for finding gradient magnitude
+
+[Sample Code](https://colab.research.google.com/drive/1L9zJoom89I2NqbMDTp7VknM6aRw86QgS?usp=sharing)
 ## Working with Images
 
 ### 1. Play videos with OpenCv:
