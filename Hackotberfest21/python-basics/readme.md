@@ -24,7 +24,7 @@
 
 ## Python Data Structures
 
-* Lists
+* [Lists](https://colab.research.google.com/drive/108NftNcJk0micyZzXUg0QaradLY86Eqi?usp=sharing)
 * Sets
 * Tuples
 * Dictionaries
