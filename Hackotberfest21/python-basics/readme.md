@@ -24,7 +24,7 @@
 
 ## Python Data Structures
 
-* [Lists](https://colab.research.google.com/drive/108NftNcJk0micyZzXUg0QaradLY86Eqi?usp=sharing)
+* [Lists](notebooks/Python_Lists_Cheatsheet.ipynb)
 * Sets
 * Tuples
 * Dictionaries
@@ -32,7 +32,7 @@
 ## Declaration of Functions in Python
 
 * Python Functions
-* [Lambda Functions (Anonymous Functions)](https://colab.research.google.com/drive/1i4FBNHwoijOhyFK1tTlc1svTFLA7edDp?usp=sharing)
+* [Lambda Functions (Anonymous Functions)](notebooks/Lambda_Functions_CHeatsheet.ipynb)
 
 ## File Handling
 *
