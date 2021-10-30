@@ -62,3 +62,11 @@
   <br> 
 <em>- By Archana Iyer</em></td>
 </tr>
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/WomenWhoCode/WWCodePython/tree/master/Python%20Libraries%20Series/Excel%20Workbooks%20with%20Python"><img alt="Openpyxl" align="left" src="images/pyxl.png"/>&nbsp;</td>
+<td colspan="3"><b>Working on Excel Workbooks with Python</b> 
+  <br><br>Did you know we could work on Excel Workbooks with Python?<br>
+
+  <br> 
+<em>- By Karen Wong</em></td>
+</tr>
