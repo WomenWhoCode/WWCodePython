@@ -40,3 +40,6 @@
 [submodule "talk_introduction_to_qt"]
 	path = talk_introduction_to_qt
 	url = git@github.com:jessicakoubi/talk_introduction_to_qt.git
+[submodule "wwcode_pyton_ide_series"]
+	path = wwcode_pyton_ide_series
+	url = https://github.com/jessicakoubi/wwcode_pyton_ide_series.git

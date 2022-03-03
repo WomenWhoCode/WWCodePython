@@ -34,6 +34,18 @@ To add new resources for events follow the [CONTRIBUTING guidelines](Contributin
 <td colspan="4"><h3><br><em>Clicking on a logo below will take you to the associated repo -- where you can review, copy or clone the repo's content.  Please reach out with any questions or issues, and/or join us on Slack for interactive discussions and support.</em><br><br></h3></td>
 </tr>
 
+<!-- Introduction to Coding Environments for Python -->
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/wwcode_pyton_ide_series.git"><img alt="Introduction to Coding Environments for Python" align="left" src="images/intro_to_code_env.png"/>&nbsp;</td>
+<td colspan="3"><b>Introduction to Coding Environments for Python</b>
+  <br><br>
+Jupyter. Visual Studio Code. PyCharm. Confused about which IDE or code/text editor to use for your next Python project? Want to know the differences between IDE's and code/text editors? Not to worry! We have you covered!
+
+Join us for an exciting series that will introduce you to some of the popular coding environments used for Python, including: Google Colab, Jupyter notebooks, Visual Studio Code, PyCharm, Vim, Anaconda, and more!
+  <br><br>
+<em>- By Poojita Garg, Jessica Koubi and Nayeon Shin</em></td>
+</tr>
+
 <!-- Introduction to Qt -->
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/talk_introduction_to_qt"><img alt="Introduction to Qt" align="left" src="images/intro_to_qt.png"/>&nbsp;</td>
@@ -84,7 +96,7 @@ This study group will journey through the exciting world of Python libraries to 
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/jessicakoubi/talk_coding_for_the_movie_industry"><img alt="May the Pipeline be with you: Coding for the Movie Industry" align="left" src="images/coding_for_the_movie_industry.png"/>&nbsp;</td>
 <td colspan="3"><b>May the Pipeline Be with You: Coding for the Movie Industry</b>
   <br><br>
-This talk will introduce you to the role of a Pipeline Technical Director in the VFX/Animation industry. We will go over who works as Pipeline TD, which kind of software development is done in the movie industry, and finally, we will look at some of the tools developed for Avengers: Infinity War.   
+This talk will introduce you to the role of a Pipeline Technical Director in the VFX/Animation industry. We will go over who works as Pipeline TD, which kind of software development is done in the movie industry, and finally, we will look at some of the tools developed for Avengers: Infinity War.
   <br><br>
 <em>- By Jessica Koubi and Bushra Alma </em></td>
 </tr>
@@ -177,7 +189,6 @@ In this webinar we explore the basics of quantum computing, such as qubits, supe
 <em>- By Sara A. Metwalli</em></td>
 </tr>
 
-
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/nuageklow/WWCodePython_BeginnerSeries"><img alt="Beginner Python Study Group" align="left" src="images/Beginner_Python_Study_Group_GitHub.png"/>&nbsp;</td>
 <td colspan="3"><b>Beginner Python Study Group 2020</b>
@@ -236,7 +247,6 @@ In this talk, we will explore the various approaches used in fuzzy string matchi
 <em>- By Jiaqi Liu</em></td>
 </tr>
 
-
 <tr>
 <td style="border: none;" align="left" width="20%"><a href="https://github.com/ShreyaKhurana/wwc/tree/master"><img alt="NLP Contextual Word Embeddings"align="left" src="images/NLP_logo.jpg"/>&nbsp;</td>
 <td colspan="3"><b>NLP Contextual Word Embeddings</b>
@@ -278,12 +288,13 @@ Most of the time, Python is seen as **object-oriented** -- a style where we mode
 
 Functions like **lambda** , **filter**,  **map**,  &  **reduce** fully support the Functional Programming style & in this live coding session we'll demonstrate how they can be effectively & efficiently used in our data analysis tasks.
 
-
 **Here are some good reads on Functional Programming, to get your started :**
+
 1. [**Don't be Scared of Functional Programming**](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
 2. [**Functional Programming (Python Docs)**](https://docs.python.org/3.7/howto/functional.html)
   <br><br>
 <em>- By Parul Pandey</em></td>
+
 </tr>
 
 <tr>
@@ -309,18 +320,13 @@ Functions like **lambda** , **filter**,  **map**,  &  **reduce** fully support t
 
 <p>In <b>Session I</b> you will be introduced to Apache Spark main concepts & you'll learn how to leverage the DataFrame API to extract data. You will also learn how to connect to different sources, apply schemas when reading data, and handle corrupt records.  
 
-
 <b>PART I:</b>   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NcSbNMgjMFqEl64qA0fmpRX7IrHuUx3u)  
-
 
 In <b>session II</b> you will be introduced to some of the most useful transformations - adding new columns, casting column types, renaming columns, etc. You'll also learn how to define User Defined Functions to do your own custom transformations & a get a little introduction to executing your own ad hoc SQL!
 
-
 <b>PART II:</b>   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T3bimqE9-OX4gSW4Zfjo3HjI-xPXBdK9)  
 
-
 In <b>session III</b> you'll analyze the robberies data by doing some aggregations & sorting. You'll learn how to convert Spark DataFrames to Pandas DataFrames. Additionally, you'll explore joins & lookup tables & write final results to CSV files. At the end of this session we'll go over best practices.
-
 
 <b>PART III:</b>  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x3HcVAs9HpUMgCGfbRfdq--6IQII0Fn5)
 
@@ -403,11 +409,8 @@ We'll also be discussing the ideas behind ML and covering a little ✨math & sta
 </tbody>
 </table>
 
-
-
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 <a href="https://www.womenwhocode.com/python/about"><img width = 80% align="right" src="images/Website CTA.png"/>
